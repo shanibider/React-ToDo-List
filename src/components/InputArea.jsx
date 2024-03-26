@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 
+// InputArea is a seperate Component.
 function InputArea(props) {
+ // manage the state of the input element
   const [inputText, setInputText] = useState("");
 
   function handleChange(event) {

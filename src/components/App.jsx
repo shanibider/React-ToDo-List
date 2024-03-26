@@ -3,6 +3,7 @@ import ToDoItem from "./ToDoItem";
 import InputArea from "./InputArea";
 
 function App() {
+  // pass the input value back into the addItem() function 
   const [items, setItems] = useState([]);
 
   function addItem(inputText) {
