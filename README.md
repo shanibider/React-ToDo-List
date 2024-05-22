@@ -1,12 +1,9 @@
 # React ToDo List App 📆
+[![Javascript](https://img.shields.io/badge/JavaScript-★★★★★-orange)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-★★★★★-blue)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-★★★★★-yellow)](https://vitejs.dev/)
 
-<div align="center">
-<img height="300px" src="https://github.com/shanibider/React-ToDo-List/assets/72359805/0ca5fdeb-4682-4a08-bf73-deb4ea824646">
-</div>
-
-This is a simple ToDo List application, utilizes several key React concepts for managing state, component composition, and event handling. Built using:
-### React, utilizing the Vite.js build tool <img height=30px src="https://skillicons.dev/icons?i=react"> <img height=30px src="https://skillicons.dev/icons?i=vite">. 
-
+A simple ToDo List application utilizes several key React concepts for managing state, component composition, and event handling. Built using: **React, utilizing the Vite.js build tool** <img height=25px src="https://skillicons.dev/icons?i=react"> <img height=25px src="https://skillicons.dev/icons?i=vite">. 
 
 # React Concepts Used 🥇
 ### 🎖 State Management with useState Hook
@@ -36,23 +33,38 @@ This is a simple ToDo List application, utilizes several key React concepts for 
 - The spread operator (`...`) is used in the `addItem` function to create a new array by spreading the previous items and adding the new item entered by the user. This ensures immutability of state.
 
 
-## Features 🗓
-- Add new tasks to the list.
-- Simple and intuitive user interface.
 
-## Getting Started 🖊
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run `npm install` to install the necessary dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and go to `http://localhost:5173` to view the app.
+
 
 ## Technologies Used 🎯
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
-- [x] React
-- [x] HTML/CSS
-- [x] JavaScript
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js)](https://skillicons.dev)
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite.js**: A build tool that provides a fast development environment.
+- **JavaScript (ES6+)**: Modern JavaScript features and syntax.
+- **CSS**: Styling for the components.
+
+
+
+## Screenshots - 
+![Todo 1](https://github.com/shanibider/React-Vite-Projects/assets/72359805/0fcd6cd1-cecc-45a8-86c0-4ceadcbccae4)
+![Todo 2](https://github.com/shanibider/React-Vite-Projects/assets/72359805/16396988-f64d-45f0-8df3-b96944d84d96)
+![Todo 3](https://github.com/shanibider/React-Vite-Projects/assets/72359805/f05e38bb-f247-4fbf-8240-851677972784)
+
+## Code Snippets ⌨
+###### App.js:
+![2](https://github.com/shanibider/React-Vite-Projects/assets/72359805/1b37def8-538c-4e9d-9ae7-1df75e742ae1)
+
+###### TodoItem.js:
+![3](https://github.com/shanibider/React-Vite-Projects/assets/72359805/fe62fca7-df30-43a8-b29a-e2f690483491)
+
+###### InputArea.jsx:
+![1](https://github.com/shanibider/React-Vite-Projects/assets/72359805/a3b5021a-fdd6-43fd-9b30-e3e810bc4486)
+
+###### style.css
+![4](https://github.com/shanibider/React-Vite-Projects/assets/72359805/7c132f14-0f0c-4e76-b8ad-c316e11d1f03)
+
 
 
 ## Folder Structure 📁
@@ -72,35 +84,30 @@ react-todo-list/
   └── ...
 ```
 
-## Screenshots - 
-![ToDo-React](https://github.com/shanibider/React-ToDo-List/assets/72359805/49e025cc-a121-4fcd-9fa8-3e728c2a5e5f)
-![ToDo-React3](https://github.com/shanibider/React-ToDo-List/assets/72359805/ee622b94-368d-4aaf-9254-aee776d9b897)
 
-## Code Snippets ⌨
-###### App.js:
-![Managing a Component Tree1](https://github.com/shanibider/React-ToDo-List/assets/72359805/3edaac48-4517-43fb-afc3-41579ab4f473)
-![Managing a Component Tree2](https://github.com/shanibider/React-ToDo-List/assets/72359805/9e822021-ff15-4bfb-8fe4-176d2f59348d)
+## 🚀 Running the Projects
+To get started with these projects, clone the repository and install the dependencies.
+To run any of the projects, navigate to the project directory and start the development server:
 
-###### TodoItem.js:
-![Managing a Component Tree3](https://github.com/shanibider/React-ToDo-List/assets/72359805/f23f29fc-747f-4d3a-aeb1-e49b5beb9382)
-
-###### InputArea.jsx:
-![Managing a Component Tree4](https://github.com/shanibider/React-ToDo-List/assets/72359805/5cbd753f-c5d4-4495-896f-5841411f1ebe)
+```bash
+git clone <link-to-project>
+npm i
+npm run dev
+```
 
 > [!TIP]
 > Feel free to explore my repositories and see my projects. I'm always open to collaboration and welcome feedback to improve and grow as a developer. Let's code something amazing together! 🚀😊👩‍💻💻
 
 
-## 📫 Connect with me 😊
+## 🚀 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.onrender.com/)
+<br>For any questions or feedback, please reach out to [shanibider@gmail.com](mailto:shanibider@gmail.com).
 
-<footer>
-<p style="float:left; width: 20%;">
-Copyright © Shani Bider, 2024
-</p>
-</footer>
+
+---
+
+Happy Coding! 🎉
 
 ## License📄
 
