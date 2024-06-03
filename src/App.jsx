@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import ToDoItem from "./ToDoItem";
-import InputArea from "./InputArea";
+import ToDoItem from "./components/ToDoItem";
+import InputArea from "./components/InputArea";
 
 function App() {
   // pass the input value back into the addItem() function 
