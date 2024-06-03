@@ -48,22 +48,24 @@ A simple ToDo List application utilizes several key React concepts for managing 
 
 
 ## Screenshots - 
-![Todo 1](https://github.com/shanibider/React-Vite-Projects/assets/72359805/0fcd6cd1-cecc-45a8-86c0-4ceadcbccae4)
-![Todo 2](https://github.com/shanibider/React-Vite-Projects/assets/72359805/16396988-f64d-45f0-8df3-b96944d84d96)
-![Todo 3](https://github.com/shanibider/React-Vite-Projects/assets/72359805/f05e38bb-f247-4fbf-8240-851677972784)
+![Todo 1](https://github.com/shanibider/React-ToDo-List/assets/72359805/5a36e113-2e2e-4f08-8289-5b960da5547d)
+![Todo 2](https://github.com/shanibider/React-ToDo-List/assets/72359805/2adb59c0-774e-4a9c-94ce-5566c9eac682)
+![Todo 3](https://github.com/shanibider/React-ToDo-List/assets/72359805/8e9062aa-ffa9-4f24-99de-b66db8a1e24e)
+
 
 ## Code Snippets ⌨
 ###### App.js:
-![2](https://github.com/shanibider/React-Vite-Projects/assets/72359805/1b37def8-538c-4e9d-9ae7-1df75e742ae1)
+![2](https://github.com/shanibider/React-ToDo-List/assets/72359805/b4962f4b-8de8-4654-963a-84ff69a0cafe)
 
 ###### TodoItem.js:
-![3](https://github.com/shanibider/React-Vite-Projects/assets/72359805/fe62fca7-df30-43a8-b29a-e2f690483491)
+![3](https://github.com/shanibider/React-ToDo-List/assets/72359805/a4e3da1f-dea7-4ef3-a73a-9c84381078c6)
 
 ###### InputArea.jsx:
-![1](https://github.com/shanibider/React-Vite-Projects/assets/72359805/a3b5021a-fdd6-43fd-9b30-e3e810bc4486)
+![1](https://github.com/shanibider/React-ToDo-List/assets/72359805/58e3d33c-a505-43e7-b581-9e6c08131355)
 
 ###### style.css
-![4](https://github.com/shanibider/React-Vite-Projects/assets/72359805/7c132f14-0f0c-4e76-b8ad-c316e11d1f03)
+![4](https://github.com/shanibider/React-ToDo-List/assets/72359805/13aac8e3-da6c-48d1-b8be-643d1a65e077)
+
 
 
 
