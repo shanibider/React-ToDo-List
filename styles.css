@@ -1,5 +1,5 @@
 body {
-  background-color: #ffeaa7;
+  background-color: #f7cacd;
   min-height: 70vh;
   padding: 1rem;
   box-sizing: border-box;
@@ -36,7 +36,7 @@ body {
   transform: rotate(2deg);
   padding: 0.2rem 1.2rem;
   border-radius: 20% 5% 20% 5%/5% 20% 25% 20%;
-  background-color: #fdcb6e;
+  background-color: #ebb3a9;
   font-size: 1.5rem;
 }
 
@@ -47,7 +47,7 @@ body {
   border-bottom-right-radius: 15px 3px;
   border-bottom-left-radius: 3px 15px;
   border: solid 3px transparent;
-  border-bottom: dashed 3px #fdcb6e;
+  border-bottom: dashed 3px #f29ca3;
   font-family: "Architects Daughter", cursive;
   font-size: 1rem;
   color: hsla(260, 2%, 25%, 0.7);
@@ -62,7 +62,7 @@ button {
   text-decoration: none;
   padding-bottom: 3px;
   border-radius: 5px;
-  background-color: #ffeaa7;
+  background-color: #f29ca3;
 }
 button span {
   background: #f1f5f8;
